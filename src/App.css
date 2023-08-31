@@ -1,0 +1,38 @@
+.navbar{
+  background-color: black;
+  padding: 1.72%;
+  text-align: center;
+}
+.navbar a{
+  color: white;
+  padding: 1.72%;
+  font-size: 1.3rem;
+  text-decoration: none;
+}
+
+.login-page{
+  background-color: bisque;
+  width: 40vw;
+  padding: 4%;
+  border-radius: 10px;
+  text-align: center;
+  margin:auto;
+  margin-top:5%
+}
+.login-page input{
+  padding: 2%;
+  width:20vw;
+  font-size: 1.2rem;
+}
+.btn-login{
+  width: 22vw;
+  padding: 2%;
+}
+
+.btn-register{
+  cursor: pointer;
+  padding: 1% 4%;
+  border-radius: 5px;
+  background-color:green;
+  color: white;
+}
